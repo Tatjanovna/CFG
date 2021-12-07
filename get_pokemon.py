@@ -17,3 +17,4 @@ pprint(pokemon['weight'])
 moves = pokemon['moves']
 for move in moves:
     print(move['move']['name'])
+    
